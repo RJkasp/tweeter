@@ -74,6 +74,7 @@ form {
 }
 div{
   margin-top: 50px ;
+  
 }
 
 input {

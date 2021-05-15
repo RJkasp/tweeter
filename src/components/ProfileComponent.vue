@@ -111,9 +111,7 @@ input{
   h1{
     font-size: 24px;
   }
-  h3{
-    font-size: 23px;
-  }
+ 
 
     #myProfile{
       width: 100%;
